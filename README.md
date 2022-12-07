@@ -13,7 +13,7 @@ From: 06 November 2022 - To: 06 December 2022
 Total Time: 53 mins
 
 Markdown   27 mins         █████████████░░░░░░░░░░░░   52.07 %
-Other      11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
+Other      11 mins         █████░░░░░░░░░░░░░░░░░░░░   21.25 %
 ```
 
 <!--END_SECTION:waka-->
