@@ -8,12 +8,13 @@ Yep, that's it.
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 November 2022 - To: 06 December 2022
+From: 07 November 2022 - To: 07 December 2022
 
-Total Time: 53 mins
+Total Time: 1 hr 6 mins
 
-Markdown   27 mins         █████████████░░░░░░░░░░░░   52.07 %
-Other      11 mins         █████░░░░░░░░░░░░░░░░░░░░   21.25 %
+Markdown   28 mins         ███████████░░░░░░░░░░░░░░   42.61 %
+YAML       23 mins         █████████░░░░░░░░░░░░░░░░   34.94 %
+Other      11 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.05 %
 ```
 
 <!--END_SECTION:waka-->
