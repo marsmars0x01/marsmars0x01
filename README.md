@@ -8,7 +8,7 @@ Yep, that's it.
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 23 December 2022
+From: 24 November 2022 - To: 24 December 2022
 
 Total Time: 1 hr 57 mins
 
