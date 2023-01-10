@@ -8,12 +8,13 @@ Yep, that's it.
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 December 2022 - To: 07 January 2023
+From: 09 December 2022 - To: 08 January 2023
 
-Total Time: 46 mins
+Total Time: 1 hr 4 mins
 
-Vue.js       26 mins         ██████████████░░░░░░░░░░░   56.73 %
-Other        8 mins          ████░░░░░░░░░░░░░░░░░░░░░   17.71 %
+Vue.js       26 mins         ██████████░░░░░░░░░░░░░░░   40.72 %
+JavaScript   17 mins         ███████░░░░░░░░░░░░░░░░░░   28.02 %
+Other        8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.72 %
 ```
 
 <!--END_SECTION:waka-->
